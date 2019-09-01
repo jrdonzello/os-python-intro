@@ -1,0 +1,723 @@
+a 16
+abdicated 1
+abolish
+it 1
+abolishing 3
+absolute 3
+absolved 1
+abuses 1
+accommodation 1
+accordingly 1
+accustomed 1
+acquiesce 1
+acts 2
+administration 1
+affected 1
+after 1
+against 2
+ages 2
+all 8
+all
+allegiance 1
+all
+having 1
+alliances 1
+alone 1
+already 1
+alter 2
+america 1
+among 5
+amongst 1
+amount 1
+an 5
+and 49
+and
+altering 1
+and
+correspondence 1
+and
+declare 1
+and
+destroyed 1
+and
+formidable 1
+and
+raising 1
+and
+such 1
+answered 1
+any 2
+appealing 1
+appropriations 1
+arbitrary 1
+are 7
+are
+instituted 1
+are
+sufferable 1
+armed 1
+armies 2
+arms 1
+as 4
+assembled 1
+assent 3
+assume 1
+at 4
+attempts 1
+attend
+to 1
+attentions 1
+away 1
+bands 1
+barbarous 1
+be 5
+be
+changed 1
+be,
+free 1
+be,
+totally 1
+bear 1
+become 1
+becomes 2
+been 4
+begun
+with 1
+benefits 1
+beyond 1
+bodies 2
+boundaries 1
+brethren 2
+bring 1
+british 2
+burnt 1
+but 1
+by 11
+by
+authority 1
+called 1
+candid 1
+captive 1
+cases 2
+cause
+others 1
+causes 1
+causes; 1
+certain
+unalienable 1
+character 1
+charters 1
+circumstances 2
+civil 1
+civilized
+nation.
+
+he 1
+coasts 1
+colonies 2
+colonies:
+
+for 1
+colonies; 1
+combined 1
+commit 1
+common 1
+complete 1
+compliance 1
+conclude 1
+conditions 1
+conditions.
+
+in 1
+congress 1
+conjured
+them 1
+connected 1
+connexion
+between 1
+connexions 1
+consent 1
+consent:
+
+for 1
+constitution 1
+constrained 1
+constrains 1
+contract 1
+convulsions 1
+country 1
+course 1
+created
+equal 1
+creator 1
+crown 1
+cruelty 1
+cutting 1
+dangers 1
+deaf 1
+death 1
+decent 1
+declaration 1
+declare 1
+declaring 2
+define 1
+dependent 1
+depository 1
+depriving 1
+deriving 1
+design 1
+desolation 1
+despotism 1
+destructive
+of 1
+dictate 1
+direct 1
+disavow 1
+disposed 1
+dissolutions 1
+dissolve 1
+dissolved 1
+dissolved; 1
+distant 1
+divine 1
+do 3
+domestic 1
+duty 1
+earth 1
+eat 1
+effect 1
+elected; 1
+emigration 1
+encourage 1
+endeavoured 1
+endeavoured
+to 1
+endowed 1
+ends 1
+enemies 1
+english 1
+enlarging
+its 1
+equal 1
+erected 1
+establish
+commerce 1
+established 1
+establishing 2
+establishment 1
+events 1
+every 1
+every
+act 1
+evils 1
+evinces 1
+example 1
+excited 1
+executioners
+of 1
+exercise;
+the 1
+experience
+hath 1
+exposed 1
+extend 1
+facts 1
+fall 1
+fatiguing 1
+fellow-citizens 1
+firm
+reliance 1
+firmness 1
+fit
+instrument 1
+for 19
+forbidden 1
+foreign 2
+foreigners;
+refusing 1
+form 2
+former
+systems 1
+forms 2
+fortunes 1
+foundation 1
+free 2
+free
+people.
+
+nor 1
+friends 1
+friends.
+
+we 1
+from 6
+frontiers 1
+fundamentally 1
+future
+security 1
+giving 1
+god
+entitle 1
+good 1
+good.
+
+he 1
+governed 1
+government 6
+governments 2
+governments:
+
+for 1
+governors 1
+great-britain 1
+guards 1
+hands.
+
+he 1
+happiness 1
+happiness.--that 1
+harrass 1
+has 20
+have 8
+have
+appealed 1
+have
+full 1
+he 1
+head 1
+here 2
+high
+seas 1
+his 6
+his
+assent 1
+his
+protection 1
+history 2
+hither 2
+hold 3
+honour 1
+houses 1
+human 1
+humble 1
+immediate 1
+impel 1
+imposing 1
+in 16
+in
+general 1
+in
+the 1
+incapable 1
+independent 4
+indian
+savages 1
+inestimable 1
+inevitably 1
+inhabitants 2
+injuries 1
+injury 1
+institute 1
+insurrections 1
+intentions 1
+interrupt 1
+into 2
+introducing 1
+invariably 1
+invasions 1
+invested
+with 1
+is 10
+it 5
+its 2
+judge 1
+judges 1
+judiciary 1
+jurisdiction 2
+jury:
+
+for 1
+just 1
+justice 3
+kept 1
+kindred 1
+king 1
+known 1
+lands.
+
+he 1
+large 3
+large
+districts 1
+laws 8
+laws; 1
+laying 1
+legislate 1
+legislation:
+
+for 1
+legislative 2
+legislature 1
+legislature
+to 1
+legislatures 1
+legislatures.
+
+he 1
+let 1
+levy 1
+liberty 1
+life 1
+light 1
+likely 1
+lives 2
+long 3
+made 1
+magnanimity 1
+mankind 2
+many 1
+marked 1
+may 1
+mean 1
+measures.
+
+he 1
+men 2
+mercenaries
+to 1
+merciless 1
+migrations 1
+military 1
+mock 1
+more 1
+most 4
+multitude 1
+murders
+which 1
+must 1
+mutually 1
+name 1
+native 1
+naturalization 1
+nature 1
+nature's 1
+necessary 1
+necessary
+for 1
+necessity 2
+neglected 1
+neighbouring
+province 1
+new 4
+not 1
+now 1
+object 2
+obstructed 1
+obstructing 1
+obtained; 1
+of 64
+of
+annihilation 1
+of
+consanguinity 1
+of
+great-britain 1
+of
+invasion 1
+of
+mankind 1
+of
+officers 1
+of
+representation 1
+of
+the 1
+of
+their 1
+off 2
+offences:
+
+for 1
+offices 2
+on 8
+once 1
+one
+people 1
+only
+by 1
+only.
+
+he 1
+operation 1
+opinions 1
+opposing 1
+oppressions 1
+or 2
+organizing 1
+other 3
+others 2
+ought 2
+our 25
+out 2
+over 1
+over
+these 1
+own 1
+paralleled 1
+parts 1
+pass 3
+patient 1
+payment 1
+peace 3
+people 6
+people.
+
+he 2
+perfidy 1
+petitioned 1
+petitions 1
+places 1
+pledge 1
+plundered 1
+political 2
+population 1
+power 2
+power.
+
+he 1
+powers 4
+powers.
+
+he 1
+present 1
+pressing
+importance 1
+pretended 2
+prevent 1
+prince 1
+protecting 1
+protection 1
+prove 1
+provide 1
+providence 1
+prudence,
+indeed 1
+public 1
+public
+records 1
+publish 1
+punishment 1
+purpose 1
+quartering 1
+ravaged 1
+rectitude 1
+redress 1
+reduce 1
+refused 3
+refusing 1
+relinquish 1
+remaining 1
+reminded 1
+render 2
+repeated 3
+repeatedly 1
+representative 1
+representatives 1
+requires
+that 1
+respect 1
+rest 1
+returned 1
+right 7
+rights 3
+rule 2
+ruler 1
+sacred 1
+safety 1
+salaries.
+
+he 1
+same 2
+scarcely 1
+seas 2
+secure 1
+self-evident 1
+sent 1
+separate
+and 1
+separation 1
+settlement 1
+sexes 1
+shall
+seem 1
+shewn 1
+should 3
+should
+be 1
+so 2
+sole 1
+solemnly 1
+stage 1
+standing 1
+state 2
+states 3
+states
+may 1
+states:
+
+for 1
+states; 2
+station 1
+subject 1
+submitted 1
+substance.
+
+he 1
+such 4
+such
+principles 1
+suffer 1
+sufferance 1
+superior 1
+support 1
+supreme 1
+suspended 2
+suspending 1
+swarms 1
+system 1
+taken 1
+taking 1
+taxes 1
+tenure 1
+terms: 1
+than 1
+that 10
+that
+purpose 1
+the 67
+the
+consent 1
+the
+most 1
+the
+pursuit 1
+the
+separation.
+
+we 1
+the
+world 1
+their 18
+them 11
+them
+of 1
+them
+under 1
+them.
+
+he 1
+themselves 3
+therefore 2
+therein 1
+these 12
+they 6
+things 1
+this 3
+those 1
+thus 1
+ties 1
+till 1
+time 5
+times 1
+to 56
+to
+each 1
+to
+our 1
+to
+the 1
+to
+their 1
+to
+throw 1
+together 1
+too 1
+totally 1
+towns 1
+trade 1
+train 1
+transient 1
+transporting 2
+trial 2
+tried 1
+troops 1
+truths 1
+tyranny 3
+tyrant 1
+unacknowledged 1
+undistinguished
+destruction 1
+unfit 1
+united 2
+unless 2
+unusual,
+uncomfortable 1
+unwarrantable 1
+unworthy 1
+us 9
+us.
+
+he 1
+us:
+
+for 1
+usurpations 1
+usurpations,
+pursuing 1
+usurpations,
+which 1
+utterly 1
+valuable 1
+voice 1
+waging 1
+wanting 1
+war 3
+warfare 1
+warned 1
+we 8
+we
+have 1
+whatsoever.
+
+he 1
+when 3
+whenever 1
+whereby 1
+which 6
+which
+denounces 1
+which
+they 1
+while 1
+wholesome 1
+whose 2
+will 2
+with 4
+with
+another 1
+with
+his 1
+with
+manly 1
+within.
+
+he 1
+without 3
+works 1
+world.
+
+he 1
+world:
+
+for 1
+would 2
